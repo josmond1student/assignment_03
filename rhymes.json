@@ -10,5 +10,23 @@
   },
   "tree": {
     "rhymes": ["bee", "flea", "key", "sea", "tea"]
+  },
+  "day": {
+    "rhymes": ["bay", "hay", "pay", "say", "way"]
+  },
+  "moon": {
+    "rhymes": ["soon", "noon", "spoon", "tune", "balloon"]
+  },
+  "star": {
+    "rhymes": ["car", "far", "jar", "bar", "tar"]
+  },
+  "sun": {
+    "rhymes": ["fun", "run", "bun", "none", "done"]
+  },
+  "light": {
+    "rhymes": ["night", "sight", "might", "right", "fight"]
+  },
+  "boat": {
+    "rhymes": ["coat", "float", "goat", "moat", "throat"]
   }
 }
