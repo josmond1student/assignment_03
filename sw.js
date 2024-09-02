@@ -2,11 +2,11 @@ const cacheName = 'v3';
 
 const cacheAssets = [
   './',
-  './index.html',
-  './style.css',
-  './app.js',
-  './rhymes.json',
-  './icon.png'
+  'index.html',
+  'style.css',
+  'app.js',
+  'rhymes.json',
+  'icon.png'
 ];
 
 // call install event
