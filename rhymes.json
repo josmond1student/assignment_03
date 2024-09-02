@@ -1,0 +1,14 @@
+{
+  "cat": {
+    "rhymes": ["bat", "hat", "mat", "rat", "sat"]
+  },
+  "dog": {
+    "rhymes": ["bog", "cog", "fog", "log", "jog"]
+  },
+  "bear": {
+    "rhymes": ["air", "care", "dare", "fair", "hair"]
+  },
+  "tree": {
+    "rhymes": ["bee", "flea", "key", "sea", "tea"]
+  }
+}
