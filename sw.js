@@ -3,7 +3,7 @@ const cacheName = 'v1';
 const cacheAssets = [
   '/',
   '/index.html',
-  '/styles.css',
+  '/style.css',
   '/app.js',
   '/rhymes.json',
   '/icon.png'
